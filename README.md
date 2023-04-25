@@ -43,7 +43,7 @@ npm i --save-dev prettier eslint-config-prettier eslint-plugin-prettier
 ## ESLint config
 Let's create .eslintrc file in the root of the project and paste next code:
 
-`// .eslintrc
+```// .eslintrc
 {
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
@@ -97,11 +97,11 @@ Let's create .eslintrc file in the root of the project and paste next code:
     ]
   }
 }
-`
+```
 
 and add .eslintignore file for prevent lint checking for specific files:
 
-`
+```
 // .eslintignore
 .idea
 .storybook
@@ -112,11 +112,11 @@ public/*
 scripts/*
 src/react-app-env.d.ts
 src/reportWebVitals.ts
-`
+```
 
 ## Prettier config
 Let's create .prettierrc file in the root of the project and paste next code:
-`
+```
 // .prettierrc
 {
   "arrowParens": "always",
@@ -125,11 +125,11 @@ Let's create .prettierrc file in the root of the project and paste next code:
   "jsxBracketSameLine": false,
   "trailingComma": "none"
 }
-`
+```
 
 ## Scripts
 In package.json you can add next scripts:
-`
+```
 // package.json
 "scripts": {
   "start": "node scripts/start.js",
@@ -138,4 +138,4 @@ In package.json you can add next scripts:
   "lint": "eslint src", // just check errors
   "lint-fix": "eslint src --quiet --fix" // fix lint errors
 }
-`
+```
