@@ -7,8 +7,7 @@ Nurtimax/Nurtimax is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-- How am I create project 
-- 
+ 
 - # Setup React App with TypeScript, ESLint and Prettier
 
 ![image](https://user-images.githubusercontent.com/44497623/229729169-02e56c48-6d75-40fe-91dc-0e261b54150a.png)
