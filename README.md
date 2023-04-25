@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nurtimax
 - 🌱 I’m currently learning React js, Next.js, Typescript
 - 📫 How to reach me [my telegram](https://t.me/Nurtimax05)
+- 🌱 My [Linktree](https://linktr.ee/nurti_max05)
 
 <!---
 Nurtimax/Nurtimax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
