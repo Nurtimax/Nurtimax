@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nurtimax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nurtimax" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nurtilek maksatbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurtilek maksatbek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nurtilek-maksatbek-900688249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurtilek maksatbek" height="30" width="40" /></a>
 <a href="https://codesandbox.com/nurtimax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nurtimax" height="30" width="40" /></a>
 <a href="https://fb.com/nurtilek maksatbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nurtilek maksatbek" height="30" width="40" /></a>
 <a href="https://instagram.com/nurti_max05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nurti_max05" height="30" width="40" /></a>
