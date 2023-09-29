@@ -113,7 +113,7 @@
           alt="nurtimax"
         />
 
-        <img
+   <img
           src="https://github-readme-stats.vercel.app/api?username=nurtimax&show_icons=true&locale=en"
           alt="nurtimax"
         />
