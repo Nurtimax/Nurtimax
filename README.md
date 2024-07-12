@@ -2,7 +2,7 @@
 
 Frontend Developer (ReactJS, NextJS)
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=nurtimax&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=discord&no-frame=false&no-bg=true&margin-w=4)
