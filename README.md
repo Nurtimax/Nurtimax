@@ -58,5 +58,3 @@ Frontend Developer (ReactJS, NextJS)
 ## 🔥 Current Streak
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)
 
-## 🚀 Longest Streak
-32 days (Sep 1, 2023 - Oct 2, 2023)
