@@ -5,7 +5,9 @@ Full Stack Developer (ReactJS, NextJS, Node.js, NestJS)
 ![Profile views](https://komarev.com/ghpvc/?username=nurtimax&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nurtimax&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nurtimax&theme=discord&no-frame=true&no-bg=false&margin-w=5)
+
+
 
 ### 📊 GitHub Stats & 🔥 Streak Stats
 
