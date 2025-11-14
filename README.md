@@ -28,10 +28,9 @@ Full Stack Developer (ReactJS, NextJS, Node.js, NestJS)
 
 ## 🛠️ Skills
 
-### Frontend Frameworks & Libraries & Backend Frameworks & Libraries
 <table>
   <tr>
-    <td colspan="4">
+    <td colspan="3">
       <strong>Languages</strong>
     </td>
     <td colspan="2">
@@ -39,6 +38,9 @@ Full Stack Developer (ReactJS, NextJS, Node.js, NestJS)
     </td>
     <td colspan="3">
       <strong>Backend</strong>
+    </td>
+    <td colspan="3">
+      <strong>Mobile</strong>
     </td>
   </tr>
   <tr>
@@ -50,9 +52,6 @@ Full Stack Developer (ReactJS, NextJS, Node.js, NestJS)
     </td>
     <td>
       <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS"/>
@@ -68,6 +67,15 @@ Full Stack Developer (ReactJS, NextJS, Node.js, NestJS)
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
     </td>
   </tr>
 </table>
